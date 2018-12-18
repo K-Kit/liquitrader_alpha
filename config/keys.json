@@ -1,0 +1,5 @@
+{
+  "public": "your-binance-public-key",
+  "secret": "your-binance-private-key",
+  "liquitrader_key": "your-liquitrader-license"
+}
