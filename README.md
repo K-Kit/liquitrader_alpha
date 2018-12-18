@@ -12,3 +12,5 @@ If you'd like to check it out without purchasing there is a preconfigured setup 
 Enjoy!
 
 https://github.com/K-Kit/liquitrader_alpha/releases/tag/demo-0.1
+
+note: this repo is currently only compiled for ubuntu.
