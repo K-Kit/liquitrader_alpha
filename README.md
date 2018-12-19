@@ -1,4 +1,4 @@
-# liquitrader_alpha
+# liquitrader_alpha (the bot formerly known as bearpuncher)
 This is the alpha release of Liquitrader Crypto Trading Bot.
 
 ### Todo:
@@ -16,3 +16,6 @@ https://github.com/K-Kit/liquitrader_alpha/releases/tag/demo-0.1
 
 
 note: this repo is currently only compiled for ubuntu.
+
+We are still working on the Liquitrader site if you have interest in participating and have a Bearpuncher License contact Kit on discord.
+https://bearpunchertrading.com
